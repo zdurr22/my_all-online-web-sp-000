@@ -13,4 +13,5 @@ def my_all?(collection)
   else
     true
   end
+  binding.pry
 end
